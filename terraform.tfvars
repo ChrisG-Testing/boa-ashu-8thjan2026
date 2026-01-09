@@ -1,3 +1,3 @@
 vm-size = "t3.micro"
 vm-name = "ashugit-vm1-day3"
-novm = 5
+novm = 1
